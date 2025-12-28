@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "nanobanana": {
+      "command": "python",
+      "args": ["/path/to/awesome-nanobanana-pro/mcp-server/nanobanana_mcp.py"],
+      "env": {
+        "GOOGLE_API_KEY": "YOUR_GOOGLE_API_KEY_HERE"
+      }
+    }
+  }
+}
